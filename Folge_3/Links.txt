@@ -1,0 +1,8 @@
+Azure Regions
+https://azure.microsoft.com/en-us/global-infrastructure/geographies/
+
+Azure Speed Test 2.0
+https://azurespeedtest.azurewebsites.net/
+
+Pizza as a Service
+https://www.eos-solutions.it/files/eos/img/Blog/pizza-as-a-service-de.png
